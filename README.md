@@ -1,0 +1,1 @@
+This repository includes practice code for both C++ and Java to enhance my programming skills. It covers fundamental concepts, data structures, and algorithms in both languages. The code reflects my efforts to deepen understanding and improve problem-solving abilities in C++ and Java.
